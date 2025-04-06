@@ -6,10 +6,10 @@
 //  Copyright (c) 2014 Daylen Yang. All rights reserved.
 //
 
-// **JR**
-// Renamed Git Repo from Stockfish15 to Stockfish17
+// **JR** on 04/06/25
+// Renamed Git Repo from Stockfish17 to Stockfish171
 // updated local repo to point to new, renamed, repo with
-//          git remote set-url origin https://github.com/jrosengarden/JRStockfish17.git
+//          git remote set-url origin https://github.com/jrosengarden/JRStockfish171.git
 // confirmed above repo name updates worked by doing a final commit
 // Updated & Pushed local git repo
 

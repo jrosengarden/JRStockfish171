@@ -393,7 +393,7 @@ const CGFloat kMaxWeight = 1;
     
     //  uncomment one of the lines below
     self.engineTextField.stringValue = name;                        // standard
-     self.engineTextField.stringValue = @"Stockfish v17 (Oct-13-24) Mods by JR";    // **JR** Modification
+     self.engineTextField.stringValue = @"Stockfish v17.1 (Apr-06-25) Mods by JR";    // **JR** Modification
 }
 
 - (void)uciEngine:(id)engine didGetInfoString:(NSString *)string {

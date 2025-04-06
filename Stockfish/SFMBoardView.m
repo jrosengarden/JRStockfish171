@@ -59,6 +59,8 @@
         _boardColor = [NSColor colorWithRed:0.25 green:0.25 blue:0.25 alpha:1];
         
         // modified by **JR** 10/13/24 (board change to shades of Lime Green)
+        // modified by **JR** on 04/06/25 - leaving color scheme the same
+        //      since v17.1 is only a minor version change
         _lightSquareColor = [NSColor colorWithHex:0x98fb98 alpha:1];
         _darkSquareColor = [NSColor colorWithHex:0x00a300 alpha:1];
         
