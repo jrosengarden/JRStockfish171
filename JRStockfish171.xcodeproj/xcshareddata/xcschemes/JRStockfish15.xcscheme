@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7705066D187CE43300BA4635"
-               BuildableName = "JRStockfish17.app"
-               BlueprintName = "JRStockfish17"
-               ReferencedContainer = "container:JRStockfish17.xcodeproj">
+               BuildableName = "JRStockfish171.app"
+               BlueprintName = "JRStockfish171"
+               ReferencedContainer = "container:JRStockfish171.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "77050691187CE43400BA4635"
-               BuildableName = "JRStockfish17Tests.xctest"
-               BlueprintName = "JRStockfish17Tests"
-               ReferencedContainer = "container:JRStockfish17.xcodeproj">
+               BuildableName = "JRStockfish171Tests.xctest"
+               BlueprintName = "JRStockfish171Tests"
+               ReferencedContainer = "container:JRStockfish171.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7705066D187CE43300BA4635"
-            BuildableName = "JRStockfish17.app"
-            BlueprintName = "JRStockfish17"
-            ReferencedContainer = "container:JRStockfish17.xcodeproj">
+            BuildableName = "JRStockfish171.app"
+            BlueprintName = "JRStockfish171"
+            ReferencedContainer = "container:JRStockfish171.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7705066D187CE43300BA4635"
-            BuildableName = "JRStockfish17.app"
-            BlueprintName = "JRStockfish17"
-            ReferencedContainer = "container:JRStockfish17.xcodeproj">
+            BuildableName = "JRStockfish171.app"
+            BlueprintName = "JRStockfish171"
+            ReferencedContainer = "container:JRStockfish171.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
